@@ -20,7 +20,7 @@ h2{
 }
 
 #picture {
-    margin-left: 900px;
+    margin-left: 950px;
     width: 300px;     /*l3ard*/
     height:200px;   /*tol*/
 }
@@ -44,4 +44,10 @@ p{
     margin-left: 200px; /*espace li kayn ela bara ms hi hwaxi hit zidt dek left ida emlna margin bohda hay kon espace min jami3 jihat*/
     background: rgba(27, 27, 75, 0.212); /* khalfia d ktaba*/
     font-size: 150%; /* taya d ktaba*/
+}
+a{
+    font-size: 100%;
+    text-align: center;         
+    text-transform: uppercase; 
+    background: rgb(255, 248, 220);
 }
